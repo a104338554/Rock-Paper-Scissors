@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.playerSelection{
+    display: flex;
+    width: 600px;
+    height: 150px;
+    background-color: lightblue;
+    margin: 50px auto 0;  
+    /* padding: 50px 400px */
+
+}
+.result{
+    height: 40px;
+    background-color: grey;
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 100px;
+    margin: 0 30px;
+    border-radius: 50px;
+    /* border: 0; */
+    font-size: 18px;
+    font-weight: 700;
+}
